@@ -1,0 +1,8 @@
+
+.card-header{
+    background-color:rgb(0, 183, 255);
+    color: white; 
+}
+input[type="checkbox"]{
+    transform: scale(1.2);
+}

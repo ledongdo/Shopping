@@ -1,0 +1,20 @@
+.tags_select{
+    background-color: rgb(0, 68, 255) ;
+}
+.image_detail_product,.feature_image{
+    width: 100%;
+    height:150px;
+    object-fit: cover;
+}
+.container_image_detail,.feature_image_container{
+    margin-top: 20px;
+}
+.alert-danger{
+    margin-top: 10px;
+    padding: 5px 5px;
+}
+.edit_image{
+    width: 100%;
+    height:150px;
+    margin: 10px  0px 20px 0px;
+}
